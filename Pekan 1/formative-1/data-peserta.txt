@@ -1,0 +1,31 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+
+//1. Nama
+I Made Debrio Amarta
+
+//2. Email 
+debrioamarta@gmail.com
+
+//3. Sistem Operasi yang digunakan 
+Windows 11
+
+//4. Akun Github 
+https://github.com/made-brio
+
+//5. Akun Telegram 
+@brioamarta
+
+//6. Role Pekerjaan (BE/FE/DEVOPS/MAHASISWA) 
+Fresh Graduate
+
+//7. Umur 
+21 tahun
+
+//8. Pernah menggunakan Go? 
+Pernah
+
+//9. Bahasa Pemrograman yg pernah dipelajari 
+C++, C#, Go.
+
+//10. Pernah membuat REST API? 
+Pernah
